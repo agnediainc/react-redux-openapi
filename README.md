@@ -10,6 +10,13 @@ You can view the json-server page at http://localhost:4000, but it isn't really 
 
 
 ## Getting Started
+
+npm install -g swagger-es6-client-generator
+
+
+wget http://central.maven.org/maven2/io/swagger/swagger-codegen-cli/2.3.1/swagger-codegen-cli-2.3.1.jar -O swagger-codegen-cli.jar
+
+
 ### `npm start`
 Runs the webpack build system with webpack-dev-server (http://localhost:3000)
 
